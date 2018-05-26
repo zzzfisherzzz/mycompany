@@ -431,6 +431,6 @@ footer {
       display: none;
     }
     .contact_form {
-      width: 100%
+      max-width: 100%
     }
 }
